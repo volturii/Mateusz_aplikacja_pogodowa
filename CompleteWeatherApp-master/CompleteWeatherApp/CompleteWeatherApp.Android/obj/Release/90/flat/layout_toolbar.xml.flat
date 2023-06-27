@@ -1,0 +1,15 @@
+AAPT                ¥   J      
+layout/toolbar "}D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp.Android\obj\Release\90\res\layout\toolbar.xml*
+
+id/toolbar   
+Ã
+9
+android*http://schemas.android.com/apk/res/android!android.support.v7.widget.Toolbar"L
+*http://schemas.android.com/apk/res/android
+background?attr/colorPrimary">
+*http://schemas.android.com/apk/res/androidid@+id/toolbar"I
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"H
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"]
+*http://schemas.android.com/apk/res/android
+popupTheme#@style/ThemeOverlay.AppCompat.Light"a
+*http://schemas.android.com/apk/res/androidtheme,@style/ThemeOverlay.AppCompat.Dark.ActionBar  

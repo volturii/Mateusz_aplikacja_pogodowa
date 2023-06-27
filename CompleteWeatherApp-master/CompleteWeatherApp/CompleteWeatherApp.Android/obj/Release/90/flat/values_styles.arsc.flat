@@ -1,0 +1,29 @@
+AAPT          •      
+«
+¨  ¨             $                 ||D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp.Android\obj\Release\90\res\values\styles.xml   ¯¬styleAppCompatDialogStyle 2c
+ _
+*US
+$"style/Theme.AppCompat.Light.Dialog )
+attr/colorAccent"	
+#FF4081;	MainTheme 2*
+ &
+*
+style/MainTheme.Base äMainTheme.Base 2Í
+ È
+%Base theme applied no matter what API*–“
++)style/Theme.AppCompat.Light.DarkActionBar (
+attr/windowNoTitle"
+true+
+attr/windowActionBar"	
+false*
+attr/colorPrimary"	
+#2196F3.
+attr/colorPrimaryDark"	
+#1976D2)
+attr/colorAccent"	
+#FF40812
+attr/windowActionModeOverlay"
+trueP
+$"android:attr/datePickerDialogTheme" 
+style/AppCompatDialogStyle8"3
+#Android Asset Packaging Tool (aapt)2.19-7929954   

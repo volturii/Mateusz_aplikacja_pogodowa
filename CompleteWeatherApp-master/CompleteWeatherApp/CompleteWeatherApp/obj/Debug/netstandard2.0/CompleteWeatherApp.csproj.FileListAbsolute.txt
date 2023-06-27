@@ -1,0 +1,30 @@
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.deps.json
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.dll
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.pdb
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.csproj.AssemblyReference.cache
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.AssemblyInfoInputs.cache
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.AssemblyInfo.cs
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.csproj.CoreCompileInputs.cache
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.dll
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\refint\CompleteWeatherApp.dll
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.pdb
+D:\Wsiz\Mobilne\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\ref\CompleteWeatherApp.dll
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.deps.json
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.dll
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.pdb
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.csproj.AssemblyReference.cache
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.AssemblyInfoInputs.cache
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.AssemblyInfo.cs
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.dll
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\refint\CompleteWeatherApp.dll
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.pdb
+C:\Users\HARDPC\Desktop\pogoda 21.06\CompleteWeatherApp-master\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\ref\CompleteWeatherApp.dll

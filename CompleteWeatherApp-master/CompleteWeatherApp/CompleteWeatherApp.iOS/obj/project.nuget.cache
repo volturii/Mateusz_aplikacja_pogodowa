@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ktbBelzNOHWdd2DEeR9cXEwNCKTSWD0QarL4bz42758A4SeKLC7KYjFYO1zzOTRgzLnBW1Xd7yTcZZuibQ86ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HARDPC\\Desktop\\pogoda 21.06\\CompleteWeatherApp-master\\CompleteWeatherApp\\CompleteWeatherApp.iOS\\CompleteWeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HARDPC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\HARDPC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\HARDPC\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\HARDPC\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
